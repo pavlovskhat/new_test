@@ -1,2 +1,2 @@
-# One comment here
+# This is a print statement
 print("hello world")
